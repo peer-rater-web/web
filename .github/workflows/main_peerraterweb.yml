@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'PeerRaterWeb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_427DE210A46F4154AE8159AE79421B33 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_76CD8A2A35F2432B9C7775648F8BAA34 }}
           package: .
